@@ -5,14 +5,14 @@ in_menu: true
 ---
 <article class="framalibre-notice">
     <div>
-      <img src="https://framalibre.org/images/logo/Mattermost.png">
+      <img src="https://framalibre.org/images/logo/Rocket.Chat.png">
     </div>
     <div>
-      <h2>Mattermost</h2>
-      <p>Mattermost est un logiciel décentralisé de communication en équipe.</p>
+      <h2>Rocket.Chat</h2>
+      <p>Un logiciel de communication en équipe !</p>
       <div>
-        <a href="https://framalibre.org/notices/mattermost.html">Vers la notice Framalibre</a>
-        <a href="https://mattermost.org/">Vers le site</a>
+        <a href="https://framalibre.org/notices/rocket-chat.html">Vers la notice Framalibre</a>
+        <a href="https://rocket.chat/">Vers le site</a>
       </div>
     </div>
   </article> 
